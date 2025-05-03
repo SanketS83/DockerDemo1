@@ -8,7 +8,7 @@ public class HelloWorldController {
 	
 	@GetMapping("/message")
 	public String getMessage() {
-		return "Compcare  -Sangli";
+		return "Compcare It Solution -Sangli";
 	}
 
 }
